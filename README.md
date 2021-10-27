@@ -1,7 +1,7 @@
 # haunted-house2018
 2018年のお化け屋敷のコード集です。
 
-公式Webページは<a data-from-md title='https://tct-fes.github.io/haunted-house2018/'
+公式Webページは<a title='https://tct-fes.github.io/haunted-house2018/'
             href='https://tct-fes.github.io/haunted-house2018/' target="_blank" rel="noopener noreferrer">ここ</a>
 
 <br>
@@ -21,7 +21,6 @@ haunted-house2018
 │   ├── kansei.py       # Pythonでシリアル通信 + 音を鳴らす
 │   └── sensor
 │       └── sensor.ino
-├── test.txt
 └── waiting_tweet         # 広報用のTwitter Botのコード？
     ├── GetTimelines.py
     ├── PostTweet.py
